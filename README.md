@@ -6,7 +6,7 @@ This is the file to fix you android studio when you use proxy and head back to n
 
 to the gradle.properties file open it and paste below code
 
-## For more details on how to configure your build environment visit
+<h1># For more details on how to configure your build environment visit
 # http://www.gradle.org/docs/current/userguide/build_environment.html
 #
 # Specifies the JVM arguments used for the daemon process.
@@ -18,6 +18,6 @@ to the gradle.properties file open it and paste below code
 # This option should only be used with decoupled projects. More details, visit
 # http://www.gradle.org/docs/current/userguide/multi_project_builds.html#sec:decoupled_projects
 # org.gradle.parallel=true
-#Sat Jul 24 19:08:13 EAT 2021
+#Sat Jul 24 19:08:13 EAT 2021 </h1>
 
 or just remove the lines of htt-proxy=_ _ _ _ _ _ _ _ 
