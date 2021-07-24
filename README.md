@@ -2,7 +2,7 @@
 This is the file to fix you android studio when you use proxy and head back to non but the proxies remain 
 
 
-#head to .grawdle 
+#head to .gradle 
 
 to the gradle.properties file open it and paste below code
 
